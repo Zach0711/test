@@ -1,7 +1,7 @@
-How to sail a boat
+How to sail a boat?
 Climb onto the boat and interact with the rudder to begin sailing.
 
-Sailing with the wind
+Sailing with the wind?
 Sailing in Valheim is heavily affected by wind speed and direction. Generally, trying to travel upwind (i.e. in the opposite direction of the wind) will be very slow, while traveling downwind (i.e. in the same direction as the wind) will be much faster.
 
 The mini-map on the upper right shows the direction of the wind (blowing wind symbol; white arrow if you're on land) in relation to the boat. If the symbol is white, the wind is blowing in your favour. If the wind is blowing from the bow of the boat and greyed out, you cannot use the sails in that direction and must instead use the rudder (see below). The sails automatically turn into the wind. The brightness of the golden part of the circle indicates how strong the wind is pushing the boat, however most of the vertical force is lost to dampening. All wind directions from crosswind to tailwind end up being roughly the same (with the optimal wind angle being only ~3% faster). Once the vessel is in motion, a player can leave the rudder and wander the boat.
